@@ -1,0 +1,6 @@
+.form-control {
+  composes: border-radius from './ticket.module.scss';
+  border: 1px solid #eee;
+  background: #fff;
+  box-shadow: none;
+};
